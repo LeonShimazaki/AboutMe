@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Leon Shimazaki</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hello there. My name is Leon.
+        \n\
+        \n\My favourite food is chocolate. Even though I know it is not good for me.
+        \n\The quick brown fox jumped over the lazy dog.
+        \n\The quick brown fox jumped over the lazy dog.
+        \n\The quick brown fox jumped over the lazy dog.
+        \n\The quick brown fox jumped over the lazy dog.
+        \n\
+        \n\This is an example application showcasing my XML skills in organising and showing artistic features that the application can use.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
